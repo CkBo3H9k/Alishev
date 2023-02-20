@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94a672c3-ff8d-49d8-9b57-404f0988ec36" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alishev.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassesAndObjects.java" afterDir="false" />
+    <list default="true" id="94a672c3-ff8d-49d8-9b57-404f0988ec36" name="Changes" comment="lesson 26">
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/Info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Interfaces/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interfaces/Animal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +21,7 @@
       <list>
         <option value="module-info" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -49,7 +47,7 @@
       <recent name="C:\Users\ajlek\IdeaProjects\alishev\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Inheritance">
+  <component name="RunManager" selected="Application.Interfaces.Test">
     <configuration name="ClassObjectAndMethod_toString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ClassObjectAndMethod_toString" />
       <module name="alishev" />
@@ -64,9 +62,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Static" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Static" />
+    <configuration name="Interfaces.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interfaces.Test" />
       <module name="alishev" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -87,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Interfaces.Test" />
         <item itemvalue="Application.Inheritance" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.ClassObjectAndMethod_toString" />
         <item itemvalue="Application.StringBuilder" />
-        <item itemvalue="Application.Static" />
       </list>
     </recent_temporary>
   </component>
@@ -104,6 +108,18 @@
       <option name="presentableId" value="Default" />
       <updated>1676472545849</updated>
     </task>
+    <task id="LOCAL-00001" summary="lesson 26">
+      <created>1676901241475</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676901241475</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lesson 26" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 26" />
   </component>
 </project>
